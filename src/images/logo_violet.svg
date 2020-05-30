@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="195" height="71" viewBox="0 0 195 71">
+  <g id="Logo" transform="translate(-982 -594.46)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="2.932" height="61.575" rx="1.466" transform="translate(1170.587 604.023) rotate(30)" fill="#9e25fc"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="2.932" height="31.521" rx="1.466" transform="translate(1148.021 594.729) rotate(30)" fill="#9e25fc"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="2.932" height="31.521" rx="1.466" transform="translate(1150.22 604.258) rotate(30)" fill="#9e25fc"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="2.932" height="31.521" rx="1.466" transform="translate(1174.461 629.816) rotate(30)" fill="#9e25fc"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="50" height="52" rx="20" transform="translate(1115 612.46)" fill="#9e25fc"/>
+    <text id="js" transform="translate(1120 651.46)" fill="#fff" font-size="57" font-family="Quicksand-SemiBold, Quicksand" font-weight="600"><tspan x="0" y="0">js</tspan></text>
+    <text id="hello" transform="translate(982 651.46)" fill="#9e25fc" font-size="57" font-family="Quicksand-SemiBold, Quicksand" font-weight="600"><tspan x="0" y="0">hello</tspan></text>
+  </g>
+</svg>

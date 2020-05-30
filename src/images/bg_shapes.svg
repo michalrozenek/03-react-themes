@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2201.379" height="941.925" viewBox="0 0 2201.379 941.925">
+  <g id="bg__shapes" transform="translate(226.69 -125.037)">
+    <line id="Line_1" data-name="Line 1" y1="252" x2="615" transform="translate(0.5 776.5)" fill="none" stroke="#9e25fc" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" y1="252" x2="615" transform="translate(-226.5 814.5)" fill="none" stroke="#9e25fc" stroke-width="1"/>
+    <line id="Line_3" data-name="Line 3" y1="252" x2="615" transform="translate(1359.5 125.5)" fill="none" stroke="#9e25fc" stroke-width="1"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(1567 231)" fill="none" stroke="#9e25fc" stroke-width="1">
+      <circle cx="80" cy="80" r="80" stroke="none"/>
+      <circle cx="80" cy="80" r="79.5" fill="none"/>
+    </g>
+    <g id="Polygon_1" data-name="Polygon 1" transform="matrix(-0.259, -0.966, 0.966, -0.259, 231.496, 886.47)" fill="none">
+      <path d="M81.5,0,163,141H0Z" stroke="none"/>
+      <path d="M 81.5 1.998275756835938 L 1.733047485351562 140 L 161.2669525146484 140 L 81.5 1.998275756835938 M 81.5 0 L 163 141 L 0 141 L 81.5 0 Z" stroke="none" fill="#9e25fc"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+  padding: 30px;
+  max-width: 600px;
+}
+
+.content__title {
+  color: var(--secondary);
+  font-size: 60px;
+  font-weight: 700;
+}
+
+.content__title--colored {
+  color: var(--primary);
+}
+
+.content__paragraph {
+  color: var(--secondary);
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.content__buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}

@@ -1,0 +1,10 @@
+.footer {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.footer__logo {
+  width: 160px;
+  margin: 0 30px 30px;
+}
