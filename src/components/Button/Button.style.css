@@ -10,18 +10,16 @@
   font-weight: 600;
 }
 
+.button:hover {
+  opacity: .6;
+}
+
 .button:first-of-type {
   margin-right: 20px;
 }
 
 .button--primary {
-  background-color: var(--background);
-  border: 1px solid var(--primary);
-  color: var(--primary);
 }
 
 .button--secondary {
-  background-color: var(--secondary);
-  border: 1px solid var(--background);
-  color: var(--background);
 }

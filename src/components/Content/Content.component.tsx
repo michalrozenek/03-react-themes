@@ -1,17 +1,13 @@
 import React from 'react';
 
 import { Button } from '../Button/Button.component';
-import { useTheme } from '../../contexts/Theme/Theme.context';
 
 import './Content.style.css';
 
 export const Content: React.FC = () => {
-  const { theme, setCurrentTheme } = useTheme();
-
   return (
     <div
       className={'content'}
-      style={{ ...theme } as React.CSSProperties}
     >
       <h1 className={'content__title'}>
         <span className={'content__title--colored'}>Themes </span>
@@ -27,15 +23,13 @@ export const Content: React.FC = () => {
       <div className={'content__buttons'}>
         <Button
           type={'primary'}
-          theme={theme}
-          onClick={() => setCurrentTheme('light')}
+          onClick={() => console.log('light')}
         >
             Light theme
         </Button>
         <Button
           type={'secondary'}
-          theme={theme}
-          onClick={() => setCurrentTheme('dark')}
+          onClick={() => console.log('dark')}
         >
           Dark theme
         </Button>

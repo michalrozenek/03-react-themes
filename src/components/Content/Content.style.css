@@ -9,17 +9,14 @@
 }
 
 .content__title {
-  color: var(--secondary);
   font-size: 60px;
   font-weight: 700;
 }
 
 .content__title--colored {
-  color: var(--primary);
 }
 
 .content__paragraph {
-  color: var(--secondary);
   font-size: 20px;
   font-weight: 400;
 }

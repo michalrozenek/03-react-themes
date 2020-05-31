@@ -1,6 +1,5 @@
 .app {
   position: relative;
-  background-color: var(--background);
 }
 
 .app__main {
